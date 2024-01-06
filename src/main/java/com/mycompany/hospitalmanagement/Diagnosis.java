@@ -56,6 +56,7 @@ public class Diagnosis extends javax.swing.JFrame {
            e.printStackTrace();
         }
     }
+    
     private void SelectionClear() {
         DefaultTableModel model = (DefaultTableModel) diagTable.getModel();
         model.setRowCount(0); // Clear all rows from the table model
