@@ -13,8 +13,7 @@ import javax.swing.table.DefaultTableModel;
 public class Diagnosis extends javax.swing.JFrame {
 
     
-    public Diagnosis(){
-        
+    public Diagnosis() {
         initComponents();
         getPatient();
         Selectional();
