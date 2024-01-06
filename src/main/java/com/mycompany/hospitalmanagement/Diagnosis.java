@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class Diagnosis extends javax.swing.JFrame {
 
-    /**
+    /*
      * Creates new form Doctors
      */
     public Diagnosis() {
