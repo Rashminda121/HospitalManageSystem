@@ -59,7 +59,7 @@ public class Diagnosis extends javax.swing.JFrame {
     
     private void SelectionClear() {
         DefaultTableModel model = (DefaultTableModel) diagTable.getModel();
-        model.setRowCount(0);  // Clear all rows from the table model 
+        model.setRowCount(0); // Clear all rows from the table model 
     }
     
      private void clearText(){
