@@ -22,7 +22,7 @@ public class Diagnosis extends javax.swing.JFrame {
     
     Connection conn=null;
     Statement st= null;
-    ResultSet rs=null,rs1=null;
+    ResultSet rs=null, rs1=null;
     
     
     private void Selectional(){
