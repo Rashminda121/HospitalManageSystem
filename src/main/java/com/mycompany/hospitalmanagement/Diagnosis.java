@@ -17,7 +17,6 @@ public class Diagnosis extends javax.swing.JFrame {
         initComponents();
         getPatient();
         Selectional();
-        
     }
     
     
