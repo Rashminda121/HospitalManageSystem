@@ -4,10 +4,7 @@
  */
 package com.mycompany.hospitalmanagement;
 
-/**
- *
- * @author Rashminda
- */
+
 public class HomeForm extends javax.swing.JFrame {
 
     /**
