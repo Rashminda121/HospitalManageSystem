@@ -4,9 +4,7 @@ package com.mycompany.hospitalmanagement;
 
 public class HomeForm extends javax.swing.JFrame {
 
-    /**
-     * Creates new form HomeForm
-     */
+   
     public HomeForm() {
         initComponents();
     }
