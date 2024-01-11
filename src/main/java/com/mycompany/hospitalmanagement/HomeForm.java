@@ -223,7 +223,7 @@ public class HomeForm extends javax.swing.JFrame {
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
 
-    }//GEN-LAST:event_jButton6ActionPerformed
+    }
 
     private void jLabel6MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel6MouseClicked
         new Doctors().setVisible(true);
