@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java
+ * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.
  */
 package com.mycompany.hospitalmanagement;
 
