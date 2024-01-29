@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIFo
+ * Click nbfs://nbhost/SystemFileSystem/Templates/GUI
  */
 package com.mycompany.hospitalmanagement;
 
